@@ -11,9 +11,9 @@ Toda colaboração é bem vinda! :wink:
 
 #### **PROGRESSO NO CURSO**: 
 
-- [ ] Prepare-se para a Jornada (4 Aulas) - 7,5% Concluído
+- [X] Prepare-se para a Jornada (4 Aulas) - 7,5% Concluído
 
-- [ ] Conteúdo de Abertura (+3 Aulas) - 13,2% Concluído
+- [X] Conteúdo de Abertura (+3 Aulas) - 13,2% Concluído
 
 - [ ] HTML/CSS3/JS (+17 Aulas) - 45,3% Concluído
 
@@ -56,4 +56,4 @@ Toda colaboração é bem vinda! :wink:
 
 #### **META**:
 
-![Transformar ideias em realidade.](https://unsplash.com/photos/Y_LgXwQEx2c "Frase Motivacional")
+![Transformar ideias em realidade](https://images.unsplash.com/photo-1589561253898-768105ca91a8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80)
